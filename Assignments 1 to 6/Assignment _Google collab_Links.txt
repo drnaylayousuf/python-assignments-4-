@@ -1,0 +1,54 @@
+
+Project 1: Mad libs Python Project
+
+
+https://colab.research.google.com/drive/1NGv6rGrftMmvSLn4bCsck5_IXg7myT1e?usp=sharing
+
+
+Project 2: Guess the Number Game Python Project (computer)
+
+
+https://colab.research.google.com/drive/1ymcSR1zbl5I8dqwX88Q9of6aqtWpQQlr?usp=sharing
+
+
+Project 3: Guess the Number Game Python Project (user)
+
+
+https://colab.research.google.com/drive/12Q2Ku4RCRrqA3Iv1NcVs8F68Ul7pfacv?usp=sharing
+
+
+Project 4: Rock, paper, scissors Python Project
+
+https://colab.research.google.com/drive/1Rxm4uEwthHVaH7PpNGc8w6oBG-KIbsCd?usp=sharing
+
+
+Project 5: Hangman Python Project
+
+https://colab.research.google.com/drive/1M93fpqeHS2ZA2pHq_8d5eoepYCeltKnu?usp=sharing
+
+
+Project 6: Countdown Timer Python Project
+
+
+https://colab.research.google.com/drive/1_u9yUS4nQ8ZV2R4cGIZzDvSgJ1NB1Lhe?usp=sharing
+
+Project 7: Password Generator Python Project
+
+
+https://colab.research.google.com/drive/191VxztQx1B_YvLgtQda-qY0Morqs6Ajz?usp=sharing
+
+
+Project 8: Create a Python Streamlit BMI Calculator Web App in Just 6 Minutes
+
+
+https://colab.research.google.com/drive/1f_GBFbvGNtVqG_c_BBc2AdRtnVOAdaq8?usp=sharing
+
+
+
+Project 9: Build a Python Website in 15 Minutes With Streamlit
+
+
+https://colab.research.google.com/drive/1dMgVUH6NgFIMxNQhT7tVitDmkHDo28NP?usp=sharing
+
+
+
